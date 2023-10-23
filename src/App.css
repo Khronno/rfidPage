@@ -1,0 +1,24 @@
+.App{
+    background-color: rgb(153, 155, 170);
+}
+article{
+    display: grid;
+    align-items: left;
+    text-align: left;
+    padding: 70px 10% 5% 10%;
+    font-size: 18px;
+}
+#quienes-somos{
+    margin-top: 56px;
+    display: grid;
+    align-items: left;
+    text-align: center;
+}   
+.acordion{
+   border: 1px solid black;
+   margin-bottom: 1%;
+}
+#a{
+    text-decoration: none;
+    color: rgb(153, 155, 170);;
+}
